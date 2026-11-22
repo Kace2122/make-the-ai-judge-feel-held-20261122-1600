@@ -16,7 +16,7 @@ TEXT = (
     "Someone pulls the blanket up to your chin and tucks it under your "
     "shoulders, the way they did when you were small. The room is dark "
     "and quiet. A hand rests on your back, rising and falling with your "
-    "breath, and it does not leave."
+    "breath, and it stays."
 )
 
 
